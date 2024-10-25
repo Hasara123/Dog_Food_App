@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="type_spinner" type="id"></item>
+    <item name="age_spinner" type="id"></item>
+    <item name="brand_spinner" type="id"></item>
+    <item name="article_author" type="id">author</item>
+    <item name="article_title" type="id">title</item>
+    <item name="article_read_time" type="id">read_time</item>
+    <item name="article_title1" type="id">title1</item>
+    <item name="article_author1" type="id">author1</item>
+    <item name="article_read_time1" type="id">real_time1</item>
+
+</resources>

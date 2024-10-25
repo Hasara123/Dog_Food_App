@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Dog_Food_App</string>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@color/white</item> <!-- or any drawable -->
+    </style>
+
+    <string name="select_brand">brand</string>
+    <string name="select_type">type</string>
+    <string name="select_age">age</string>
+    <string name="description">Description</string>
+    <string name="dog_food_name">Dog Food Name</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="back">helllo</string>
+    <string name="the_farmer_s_dog_turkey">The Farmer\'s Dog Turkey</string>
+    <string name="turkey_parsnips_chickpeas_carrots_broccoli_spinach_and_fish_oil">Turkey, parsnips, chickpeas, carrots, broccoli, spinach, and fish oil.</string>
+    <string name="_4_5">4.5</string>
+    <string name="add_to_cart">Add to Cart</string>
+
+
+    <string-array name="brands_array">
+        <item>Brand</item>
+        <item>Pedigree</item>
+        <item>Blue Buffalo</item>
+        <item>Purina</item>
+        <!-- Add other brands as needed -->
+    </string-array>
+
+    <string-array name="types_array">
+        <item>Type</item>
+        <item>Wet</item>
+        <item>Dry</item>
+        <!-- Add other types as needed -->
+    </string-array>
+
+    <string-array name="ages_array">
+        <item>Age</item>
+        <item>Puppy</item>
+        <item>Adult</item>
+        <item>Senior</item>
+        <!-- Add other age groups as needed -->
+    </string-array>
+
+
+</resources>
